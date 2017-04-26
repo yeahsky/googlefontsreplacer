@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: googlefonts replacer
-	Plugin URI: http://www.redren.net/2017/04/tihuangooglezaixianzitiweiguoneiyuanjiakuaiwordpresshoutaidakaisududefangfa/
+	Plugin URI: http://www.redren.net/7733.html
 	Description: 将谷歌字体替换成国内CDN链接，加快wordpress后台管理界面的速度.
 	Version: 1.0
 	Author: David
