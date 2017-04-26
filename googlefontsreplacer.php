@@ -10,7 +10,7 @@
 
 
 function redren_cdn_callback($buffer) {
-	return str_replace('//fonts.googleapis.com', 'https://fonts.css.network', $buffer);
+	return str_replace('fonts.googleapis.com', 'fonts.css.network', $buffer);
 }
 function redren_buffer_start() {
 	ob_start("redren_cdn_callback");
