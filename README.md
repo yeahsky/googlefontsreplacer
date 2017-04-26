@@ -1,4 +1,4 @@
-# googlefontsreplacer
+# Google Fonts Replacer
 replace fonts.googleapis.com to Chinese local cdn. Speed up wordpress backend.
 
 ### Useage:
@@ -7,4 +7,4 @@ replace fonts.googleapis.com to Chinese local cdn. Speed up wordpress backend.
 3. Done!
 
 ### Discription:
-http://www.redren.net/2017/04/tihuangooglezaixianzitiweiguoneiyuanjiakuaiwordpresshoutaidakaisududefangfa/
+http://www.redren.net/7733.html
